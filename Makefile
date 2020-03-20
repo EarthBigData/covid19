@@ -6,5 +6,5 @@ all:
 	git add .
 	git commit -m "Automatic update"
 	git push
-	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19.html
+	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
 
