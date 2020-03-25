@@ -1,6 +1,7 @@
 object = ebd_covid19.ipynb
 all:
 	cd /s/notebooks/covid19
+	wget -O /s/data/covid19/time_series_19-covid-Confirmed.csv https://www.soothsawyer.com/wp-content/uploads/2020/03/time_series_19-covid-Confirmed.csv
 	jupyter nbconvert --execute $(object) --to html --no-input --output-dir /s/notebooks/covid19/html
 	git pull
 	git add .
