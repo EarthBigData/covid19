@@ -1,0 +1,1320 @@
+{
+    "Attributes": "",
+    "Duration_hms": "0:17:50.922038",
+    "Duration_sec": "1070.922038",
+    "EndTime": "2018-09-12T23:16:25.794777",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180622T230613_20180622T230638_022476_026F2C_068E.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:34.872739",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:05.963193",
+    "Duration_sec": "1085.963193",
+    "EndTime": "2018-09-12T23:16:47.082940",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180613T232956_20180613T233021_022345_026B4C_6937.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:41.119747",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:17:40.933819",
+    "Duration_sec": "1060.933819",
+    "EndTime": "2018-09-12T23:16:50.080721",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180731T232959_20180731T233024_023045_02806F_4942.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:09.146902",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:05.940690",
+    "Duration_sec": "1085.94069",
+    "EndTime": "2018-09-12T23:16:51.267845",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180809T230526_20180809T230551_023176_028493_201D.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:45.327155",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:17:45.936554",
+    "Duration_sec": "1065.936554",
+    "EndTime": "2018-09-12T23:16:59.308714",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180622T230523_20180622T230548_022476_026F2C_36AD.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:13.372160",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:05.945201",
+    "Duration_sec": "1085.945201",
+    "EndTime": "2018-09-12T23:16:59.809966",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180610T230547_20180610T230612_022301_0269E8_8031.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:53.864765",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:17:50.948051",
+    "Duration_sec": "1070.948051",
+    "EndTime": "2018-09-12T23:17:07.737692",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180814T231324_20180814T231349_023249_0286F7_C4A8.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:16.789641",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:15.964681",
+    "Duration_sec": "1095.964681",
+    "EndTime": "2018-09-12T23:17:08.504497",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180721T231322_20180721T231347_022899_027BD7_A6EF.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:52.539816",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:35.983141",
+    "Duration_sec": "1115.983141",
+    "EndTime": "2018-09-12T23:17:11.103285",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180824T232910_20180824T232935_023395_028BA7_64CD.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:35.120144",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:30.965123",
+    "Duration_sec": "1110.965123",
+    "EndTime": "2018-09-12T23:17:20.587850",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180905T232911_20180905T232936_023570_02913D_7A75.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:49.622727",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:00.941652",
+    "Duration_sec": "1080.941652",
+    "EndTime": "2018-09-12T23:17:26.191631",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180704T230613_20180704T230638_022651_02744A_0674.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:25.249979",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:00.925807",
+    "Duration_sec": "1080.925807",
+    "EndTime": "2018-09-12T23:17:26.990391",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180714T232111_20180714T232136_022797_0278A9_B465.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:26.064584",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:10.949571",
+    "Duration_sec": "1090.949571",
+    "EndTime": "2018-09-12T23:17:27.723400",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180909T225800_20180909T225825_023628_029327_5CFA.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:16.773829",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:15.957037",
+    "Duration_sec": "1095.957037",
+    "EndTime": "2018-09-12T23:17:28.512049",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180620T232110_20180620T232135_022447_026E56_3473.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:12.555012",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:10.948954",
+    "Duration_sec": "1090.948954",
+    "EndTime": "2018-09-12T23:17:28.579080",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180613T232931_20180613T232956_022345_026B4C_E27D.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:17.630126",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:17:55.938079",
+    "Duration_sec": "1075.938079",
+    "EndTime": "2018-09-12T23:17:29.742452",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180831T232114_20180831T232139_023497_028EE6_B050.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:33.804373",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:56.000138",
+    "Duration_sec": "1136.000138",
+    "EndTime": "2018-09-12T23:17:30.854897",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180702T232226_20180702T232251_022622_02736E_7FF6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:34.854759",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:05.927591",
+    "Duration_sec": "1085.927591",
+    "EndTime": "2018-09-12T23:17:36.256771",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180821T230526_20180821T230551_023351_028A3E_ED8B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:30.329180",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:50.985581",
+    "Duration_sec": "1130.985581",
+    "EndTime": "2018-09-12T23:17:36.350007",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180819T232114_20180819T232139_023322_028958_A7D9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:45.364426",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:56.007361",
+    "Duration_sec": "1136.007361",
+    "EndTime": "2018-09-12T23:17:37.217478",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180625T232957_20180625T233022_022520_027070_67C9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:41.210117",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:15.942266",
+    "Duration_sec": "1095.942266",
+    "EndTime": "2018-09-12T23:17:37.784759",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180610T230522_20180610T230547_022301_0269E8_948D.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:21.842493",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:25.958283",
+    "Duration_sec": "1105.958283",
+    "EndTime": "2018-09-12T23:17:38.386625",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_1E0D.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:12.428342",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:50.978929",
+    "Duration_sec": "1130.978929",
+    "EndTime": "2018-09-12T23:17:38.962692",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180819T232204_20180819T232229_023322_028958_7DF9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:47.983763",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:50.982769",
+    "Duration_sec": "1130.982769",
+    "EndTime": "2018-09-12T23:17:42.817627",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180826T231349_20180826T231414_023424_028C94_F0B9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:51.834858",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:15.949037",
+    "Duration_sec": "1095.949037",
+    "EndTime": "2018-09-12T23:17:45.414957",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180731T232934_20180731T232959_023045_02806F_840B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:29.465920",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:20.968916",
+    "Duration_sec": "1100.968916",
+    "EndTime": "2018-09-12T23:17:50.549472",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180726T232202_20180726T232227_022972_027E32_38F9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:29.580556",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:20.956994",
+    "Duration_sec": "1100.956994",
+    "EndTime": "2018-09-12T23:17:54.535287",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180905T233001_20180905T233026_023570_02913D_5106.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:33.578293",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:19:11.006477",
+    "Duration_sec": "1151.006477",
+    "EndTime": "2018-09-12T23:17:54.752854",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180802T231413_20180802T231438_023074_028154_8A87.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:43.746377",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:40.986416",
+    "Duration_sec": "1120.986416",
+    "EndTime": "2018-09-12T23:18:01.952262",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180709T231411_20180709T231436_022724_02766D_A8A8.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:20.965846",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:55.985620",
+    "Duration_sec": "1135.98562",
+    "EndTime": "2018-09-12T23:18:17.003065",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180814T231414_20180814T231439_023249_0286F7_21D6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:21.017445",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:20:36.084498",
+    "Duration_sec": "1236.084498",
+    "EndTime": "2018-09-12T23:20:01.439359",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180711T225743_20180711T225812_022753_027755_0CDD.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:59:25.354861",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:19:36.066541",
+    "Duration_sec": "1176.066541",
+    "EndTime": "2018-09-12T23:28:32.018891",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180617T225811_20180617T225836_022403_026D0A_0B72.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:08:55.952350",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:19:56.063103",
+    "Duration_sec": "1196.063103",
+    "EndTime": "2018-09-12T23:28:52.880713",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180605T225810_20180605T225835_022228_0267AB_4AED.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:08:56.817610",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:20:26.099053",
+    "Duration_sec": "1226.099053",
+    "EndTime": "2018-09-12T23:29:26.276538",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180709T231321_20180709T231346_022724_02766D_72D1.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:00.177485",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:20:41.109632",
+    "Duration_sec": "1241.109632",
+    "EndTime": "2018-09-12T23:29:42.675662",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180719T232958_20180719T233023_022870_027AE6_704B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:01.566030",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:21.132682",
+    "Duration_sec": "1281.132682",
+    "EndTime": "2018-09-12T23:30:21.295879",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180627T231346_20180627T231411_022549_027150_25DF.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:00.163197",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:20:51.111034",
+    "Duration_sec": "1251.111034",
+    "EndTime": "2018-09-12T23:30:27.176103",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180807T232113_20180807T232138_023147_0283AB_C25F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:36.065069",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:20:51.121443",
+    "Duration_sec": "1251.121443",
+    "EndTime": "2018-09-12T23:30:36.498988",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180615T231320_20180615T231345_022374_026C2C_8345.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:45.377545",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:06.119668",
+    "Duration_sec": "1266.119668",
+    "EndTime": "2018-09-12T23:30:43.152100",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180804T225814_20180804T225839_023103_028248_11B3.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:37.032432",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:16.133373",
+    "Duration_sec": "1276.133373",
+    "EndTime": "2018-09-12T23:30:43.474807",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180821T230551_20180821T230616_023351_028A3E_7E81.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:27.341434",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:11.147125",
+    "Duration_sec": "1271.147125",
+    "EndTime": "2018-09-12T23:30:43.580447",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180711T225812_20180711T225837_022753_027755_952C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:32.433322",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:56.168952",
+    "Duration_sec": "1316.168952",
+    "EndTime": "2018-09-12T23:30:52.059412",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180603T231344_20180603T231409_022199_0266C0_3B5B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:08:55.890460",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:21.130726",
+    "Duration_sec": "1281.130726",
+    "EndTime": "2018-09-12T23:30:53.869450",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_B67C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:32.738724",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:06.126732",
+    "Duration_sec": "1266.126732",
+    "EndTime": "2018-09-12T23:31:06.429987",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180702T232111_20180702T232136_022622_02736E_1B2C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:00.303255",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:41.170260",
+    "Duration_sec": "1301.17026",
+    "EndTime": "2018-09-12T23:31:12.813033",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180809T230616_20180809T230641_023176_028493_D92A.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:31.642773",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:36.168344",
+    "Duration_sec": "1296.168344",
+    "EndTime": "2018-09-12T23:31:16.512412",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180627T231321_20180627T231346_022549_027150_45F9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:40.344068",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:16.134633",
+    "Duration_sec": "1276.134633",
+    "EndTime": "2018-09-12T23:31:17.538844",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180728T230525_20180728T230550_023001_027F1D_E5F9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:01.404211",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:51.181289",
+    "Duration_sec": "1311.181289",
+    "EndTime": "2018-09-12T23:31:19.386955",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180831T232139_20180831T232204_023497_028EE6_4AEC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:28.205666",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:36.177144",
+    "Duration_sec": "1296.177144",
+    "EndTime": "2018-09-12T23:31:20.902221",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180610T230612_20180610T230637_022301_0269E8_6A5E.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:44.725077",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:01.175790",
+    "Duration_sec": "1321.17579",
+    "EndTime": "2018-09-12T23:31:29.513675",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180608T232134_20180608T232159_022272_026906_343D.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:28.337885",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:26.162462",
+    "Duration_sec": "1286.162462",
+    "EndTime": "2018-09-12T23:31:39.320223",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180902T230552_20180902T230617_023526_028FCB_0AE6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:13.157761",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:31.147726",
+    "Duration_sec": "1291.147726",
+    "EndTime": "2018-09-12T23:31:51.841337",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180716T230524_20180716T230549_022826_027995_8CC6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:20.693611",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:46.177397",
+    "Duration_sec": "1306.177397",
+    "EndTime": "2018-09-12T23:32:02.617000",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180716T230549_20180716T230614_022826_027995_7D7B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:16.439603",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:46.191736",
+    "Duration_sec": "1306.191736",
+    "EndTime": "2018-09-12T23:32:05.382643",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180719T232908_20180719T232933_022870_027AE6_094B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:19.190907",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:26.163909",
+    "Duration_sec": "1286.163909",
+    "EndTime": "2018-09-12T23:32:13.556604",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180726T232112_20180726T232137_022972_027E32_F5C1.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:47.392695",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:31.193217",
+    "Duration_sec": "1351.193217",
+    "EndTime": "2018-09-12T23:32:13.804946",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180909T225825_20180909T225850_023628_029327_523C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:42.611729",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:11.181979",
+    "Duration_sec": "1331.181979",
+    "EndTime": "2018-09-12T23:32:14.766484",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180726T232137_20180726T232202_022972_027E32_5056.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:03.584505",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:16.153193",
+    "Duration_sec": "1276.153193",
+    "EndTime": "2018-09-12T23:32:16.993441",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180613T232906_20180613T232931_022345_026B4C_E51E.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:00.840248",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:36.222246",
+    "Duration_sec": "1356.222246",
+    "EndTime": "2018-09-12T23:32:17.310995",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180620T232225_20180620T232250_022447_026E56_6DE6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:41.088749",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:41.154739",
+    "Duration_sec": "1301.154739",
+    "EndTime": "2018-09-12T23:32:19.016285",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180802T231323_20180802T231348_023074_028154_A6B0.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:37.861546",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:01.129782",
+    "Duration_sec": "1261.129782",
+    "EndTime": "2018-09-12T23:32:19.113550",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180816T225814_20180816T225839_023278_0287F3_A1A9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:17.983768",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:51.178291",
+    "Duration_sec": "1311.178291",
+    "EndTime": "2018-09-12T23:32:20.561623",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180809T230551_20180809T230616_023176_028493_1F89.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:29.383332",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:21.126171",
+    "Duration_sec": "1281.126171",
+    "EndTime": "2018-09-12T23:32:22.083454",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180625T232907_20180625T232932_022520_027070_7BF2.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:00.957283",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:26.214264",
+    "Duration_sec": "1346.214264",
+    "EndTime": "2018-09-12T23:32:23.201146",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180622T230548_20180622T230613_022476_026F2C_97D5.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:56.986882",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:11.183391",
+    "Duration_sec": "1331.183391",
+    "EndTime": "2018-09-12T23:32:25.576982",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180723T225813_20180723T225838_022928_027CD3_5A22.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:14.393591",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:36.142584",
+    "Duration_sec": "1296.142584",
+    "EndTime": "2018-09-12T23:32:26.865721",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180902T230617_20180902T230642_023526_028FCB_49CF.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:50.723137",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:51.189237",
+    "Duration_sec": "1311.189237",
+    "EndTime": "2018-09-12T23:32:30.081660",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180824T233000_20180824T233025_023395_028BA7_57F5.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:38.892423",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:21.201246",
+    "Duration_sec": "1281.201246",
+    "EndTime": "2018-09-12T23:32:30.771391",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180826T231324_20180826T231349_023424_028C94_B3E5.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:09.570145",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:36.214907",
+    "Duration_sec": "1356.214907",
+    "EndTime": "2018-09-12T23:32:31.210668",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180807T232138_20180807T232203_023147_0283AB_99EC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:54.995761",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:01.195569",
+    "Duration_sec": "1321.195569",
+    "EndTime": "2018-09-12T23:32:35.794280",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180704T230523_20180704T230548_022651_02744A_48EC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:34.598711",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:51.179503",
+    "Duration_sec": "1311.179503",
+    "EndTime": "2018-09-12T23:32:36.616117",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180716T230614_20180716T230639_022826_027995_F9E2.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:45.436614",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:23:36.268622",
+    "Duration_sec": "1416.268622",
+    "EndTime": "2018-09-12T23:32:40.729976",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180814T231349_20180814T231414_023249_0286F7_8F75.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:04.461354",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:36.135145",
+    "Duration_sec": "1296.135145",
+    "EndTime": "2018-09-12T23:32:41.302417",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180608T232109_20180608T232134_022272_026906_CC39.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:05.167272",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:11.200445",
+    "Duration_sec": "1331.200445",
+    "EndTime": "2018-09-12T23:32:41.499954",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180902T230527_20180902T230552_023526_028FCB_8D97.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:30.299509",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:23:31.255436",
+    "Duration_sec": "1411.255436",
+    "EndTime": "2018-09-12T23:32:41.636121",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180615T231410_20180615T231435_022374_026C2C_9144.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:10.380685",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:23:06.257568",
+    "Duration_sec": "1386.257568",
+    "EndTime": "2018-09-12T23:32:43.018895",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180627T231411_20180627T231436_022549_027150_2A0E.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:36.761327",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.218903",
+    "Duration_sec": "1366.218903",
+    "EndTime": "2018-09-12T23:32:45.561490",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180807T232228_20180807T232253_023147_0283AB_8D3B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:59.342587",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:20:51.123315",
+    "Duration_sec": "1251.123315",
+    "EndTime": "2018-09-12T23:32:46.663473",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180629T225811_20180629T225836_022578_027226_8B36.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:55.540158",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:56.215432",
+    "Duration_sec": "1316.215432",
+    "EndTime": "2018-09-12T23:32:48.118858",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180731T232909_20180731T232934_023045_02806F_9C76.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:51.903426",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.212075",
+    "Duration_sec": "1366.212075",
+    "EndTime": "2018-09-12T23:32:50.800930",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180831T232204_20180831T232229_023497_028EE6_AAF6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:04.588855",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:26.221655",
+    "Duration_sec": "1346.221655",
+    "EndTime": "2018-09-12T23:32:52.207017",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180824T232935_20180824T233000_023395_028BA7_FC60.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:25.985362",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:36.232754",
+    "Duration_sec": "1356.232754",
+    "EndTime": "2018-09-12T23:32:53.702506",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180819T232229_20180819T232254_023322_028958_8CE1.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:17.469752",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:51.195390",
+    "Duration_sec": "1311.19539",
+    "EndTime": "2018-09-12T23:32:54.247068",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180704T230548_20180704T230613_022651_02744A_F574.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:03.051678",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:41.152866",
+    "Duration_sec": "1301.152866",
+    "EndTime": "2018-09-12T23:32:54.888829",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180728T230615_20180728T230640_023001_027F1D_42D9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:13.735963",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:36.227450",
+    "Duration_sec": "1356.22745",
+    "EndTime": "2018-09-12T23:32:59.853287",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180807T232203_20180807T232228_023147_0283AB_A9F1.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:23.625837",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:11.175535",
+    "Duration_sec": "1331.175535",
+    "EndTime": "2018-09-12T23:33:00.949443",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180620T232135_20180620T232200_022447_026E56_24BC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:49.773908",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:46.169047",
+    "Duration_sec": "1306.169047",
+    "EndTime": "2018-09-12T23:33:02.008002",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180603T231319_20180603T231344_022199_0266C0_BDD1.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:15.838955",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:31.155854",
+    "Duration_sec": "1291.155854",
+    "EndTime": "2018-09-12T23:33:03.175480",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180821T230616_20180821T230641_023351_028A3E_6854.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:32.019626",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:36.209614",
+    "Duration_sec": "1356.209614",
+    "EndTime": "2018-09-12T23:33:04.241582",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180714T232201_20180714T232226_022797_0278A9_E050.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:28.031968",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:56.237191",
+    "Duration_sec": "1376.237191",
+    "EndTime": "2018-09-12T23:33:06.387528",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180608T232224_20180608T232249_022272_026906_B04E.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:10.150337",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:23:11.262497",
+    "Duration_sec": "1391.262497",
+    "EndTime": "2018-09-12T23:33:07.235878",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180603T231409_20180603T231434_022199_0266C0_0098.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:55.973381",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:16.120795",
+    "Duration_sec": "1276.120795",
+    "EndTime": "2018-09-12T23:33:07.417775",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180702T232136_20180702T232201_022622_02736E_BD19.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:51.296980",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:26.239356",
+    "Duration_sec": "1346.239356",
+    "EndTime": "2018-09-12T23:33:12.713481",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180702T232201_20180702T232226_022622_02736E_94DE.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:46.474125",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:06.173688",
+    "Duration_sec": "1326.173688",
+    "EndTime": "2018-09-12T23:33:13.454307",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180728T230550_20180728T230615_023001_027F1D_858F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:07.280619",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:41.224250",
+    "Duration_sec": "1361.22425",
+    "EndTime": "2018-09-12T23:33:14.859960",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180714T232226_20180714T232251_022797_0278A9_B522.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:33.635710",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:36.142952",
+    "Duration_sec": "1296.142952",
+    "EndTime": "2018-09-12T23:33:16.350136",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180625T232932_20180625T232957_022520_027070_F927.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:40.207184",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:36.163609",
+    "Duration_sec": "1296.163609",
+    "EndTime": "2018-09-12T23:33:17.876369",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_2050.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:41.712760",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:26.215889",
+    "Duration_sec": "1346.215889",
+    "EndTime": "2018-09-12T23:33:20.407045",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180620T232200_20180620T232225_022447_026E56_710C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:54.191156",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:11.191676",
+    "Duration_sec": "1331.191676",
+    "EndTime": "2018-09-12T23:33:20.608168",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180905T232936_20180905T233001_023570_02913D_C213.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:09.416492",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:41.213656",
+    "Duration_sec": "1361.213656",
+    "EndTime": "2018-09-12T23:33:22.343685",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180907T231350_20180907T231415_023599_02922C_5F84.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:41.130029",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:31.147818",
+    "Duration_sec": "1291.147818",
+    "EndTime": "2018-09-12T23:33:22.985969",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180719T232933_20180719T232958_022870_027AE6_D521.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:51.838151",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.224790",
+    "Duration_sec": "1366.22479",
+    "EndTime": "2018-09-12T23:33:23.118871",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180909T225735_20180909T225800_023628_029327_9CC9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:36.894081",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:41.239037",
+    "Duration_sec": "1361.239037",
+    "EndTime": "2018-09-12T23:33:23.421594",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180726T232227_20180726T232252_022972_027E32_E58B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:42.182557",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:31.251117",
+    "Duration_sec": "1351.251117",
+    "EndTime": "2018-09-12T23:33:26.266513",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180608T232159_20180608T232224_022272_026906_711C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:55.015396",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:16.217417",
+    "Duration_sec": "1336.217417",
+    "EndTime": "2018-09-12T23:33:27.637468",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180831T232229_20180831T232254_023497_028EE6_AF68.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:11.420051",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.241210",
+    "Duration_sec": "1366.24121",
+    "EndTime": "2018-09-12T23:33:29.421519",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180802T231348_20180802T231413_023074_028154_10CB.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:43.180309",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:36.265329",
+    "Duration_sec": "1356.265329",
+    "EndTime": "2018-09-12T23:33:32.514058",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180714T232136_20180714T232201_022797_0278A9_8718.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:56.248729",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:21.211810",
+    "Duration_sec": "1341.21181",
+    "EndTime": "2018-09-12T23:33:35.695787",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180819T232139_20180819T232204_023322_028958_BD67.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:14.483977",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:23:36.261458",
+    "Duration_sec": "1416.261458",
+    "EndTime": "2018-09-12T23:33:42.130103",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180615T231345_20180615T231410_022374_026C2C_D44B.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:05.868645",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.253823",
+    "Duration_sec": "1366.253823",
+    "EndTime": "2018-09-12T23:33:44.806586",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180907T231415_20180907T231440_023599_02922C_3340.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:58.552763",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.213941",
+    "Duration_sec": "1366.213941",
+    "EndTime": "2018-09-12T23:33:51.367695",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180826T231414_20180826T231439_023424_028C94_1E26.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:05.153754",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:23:46.278345",
+    "Duration_sec": "1426.278345",
+    "EndTime": "2018-09-12T23:33:54.122054",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180721T231412_20180721T231437_022899_027BD7_FDB0.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:07.843709",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:01.213866",
+    "Duration_sec": "1321.213866",
+    "EndTime": "2018-09-12T23:33:54.785470",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180721T231347_20180721T231412_022899_027BD7_ACF4.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:53.571604",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:22:46.207516",
+    "Duration_sec": "1366.207516",
+    "EndTime": "2018-09-12T23:34:05.005562",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180709T231346_20180709T231411_022724_02766D_D359.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:18.798046",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:25:11.354991",
+    "Duration_sec": "1511.354991",
+    "EndTime": "2018-09-12T23:34:15.996069",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180723T225744_20180723T225813_022928_027CD3_13F1.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:04.641078",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:25:06.354614",
+    "Duration_sec": "1506.354614",
+    "EndTime": "2018-09-12T23:34:54.819599",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180617T225742_20180617T225811_022403_026D0A_32D2.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:09:48.464985",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:25:01.355019",
+    "Duration_sec": "1501.355019",
+    "EndTime": "2018-09-12T23:35:10.210510",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180804T225744_20180804T225814_023103_028248_FCC6.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:08.855491",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:25:06.362296",
+    "Duration_sec": "1506.362296",
+    "EndTime": "2018-09-12T23:35:28.094327",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180605T225741_20180605T225810_022228_0267AB_29C9.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:21.732031",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:25:31.377546",
+    "Duration_sec": "1531.377546",
+    "EndTime": "2018-09-12T23:35:43.562801",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180816T225745_20180816T225814_023278_0287F3_4034.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:12.185255",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:25:16.368392",
+    "Duration_sec": "1516.368392",
+    "EndTime": "2018-09-12T23:35:48.918125",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180629T225742_20180629T225811_022578_027226_735C.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:32.549733",
+    "User": "ebduser"
+}
+-----------------------------------------------------------

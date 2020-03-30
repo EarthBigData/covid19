@@ -1,0 +1,11 @@
+{
+    "Attributes": "---- CREATED TEMPORARY WORKING DIRECTORY:\n/dev/shm/seppoRPyuvxs9c0\n/dev/shm/seppoRPyuvxs9c0/seppo_sentinel_update_allPaths.sh\n---- PREPARED RECIPE:\nCOMMAND   = /dev/shm/seppoRPyuvxs9c0/seppo_sentinel_update_allPaths.sh\nARGUMENTS =['-H', 'ebddbinstance.cbstdhjsojep.us-east-1.rds.amazonaws.com']\n---- Processing recipe    : /dev/shm/seppoRPyuvxs9c0/seppo_sentinel_update_allPaths.sh\n---- Processing parameters: ['-H', 'ebddbinstance.cbstdhjsojep.us-east-1.rds.amazonaws.com']\n---- Logfile              : SRP_seppo_sentinel_update_allPaths.sh.log\n---- PROCESSING ...\n---- DONE.\n---- FINAL CLEANUP DELETING TEMPDIR.\n",
+    "Duration_hms": "4:38:09.258975",
+    "Duration_sec": "16689.258975",
+    "EndTime": "2017-12-27T08:41:19.968282",
+    "Job": "seppo_recipe_processor.py -r '/mnt/s/seppo/recipies/sentinel/seppo_sentinel_update_allPaths.sh -H ebddbinstance.cbstdhjsojep.us-east-1.rds.amazonaws.com'",
+    "JobID": "sentinelinventory",
+    "StartTime": "2017-12-27T04:03:10.709307",
+    "User": "josefk"
+}
+-----------------------------------------------------------

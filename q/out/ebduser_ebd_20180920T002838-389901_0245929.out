@@ -1,0 +1,220 @@
+{
+    "Attributes": "",
+    "Duration_hms": "0:07:00.478164",
+    "Duration_sec": "420.478164",
+    "EndTime": "2018-09-20T00:35:40.686764",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17RMQsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17RMQ -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:28:40.208600",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:07:35.535049",
+    "Duration_sec": "455.535049",
+    "EndTime": "2018-09-20T00:40:45.825898",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SNSsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SNS -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:10.290849",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:07:55.525811",
+    "Duration_sec": "475.525811",
+    "EndTime": "2018-09-20T00:41:01.258101",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SMRsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SMR -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:05.732290",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:07:55.544487",
+    "Duration_sec": "475.544487",
+    "EndTime": "2018-09-20T00:41:03.023850",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SNRsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SNR -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:07.479363",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:09:05.621646",
+    "Duration_sec": "545.621646",
+    "EndTime": "2018-09-20T00:42:24.529618",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SPUsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SPU -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:18.907972",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:09:10.614122",
+    "Duration_sec": "550.614122",
+    "EndTime": "2018-09-20T00:42:24.872905",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SPSsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SPS -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:14.258783",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:09:45.659813",
+    "Duration_sec": "585.659813",
+    "EndTime": "2018-09-20T00:43:04.230160",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SPTsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SPT -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:18.570347",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:08:10.547627",
+    "Duration_sec": "490.547627",
+    "EndTime": "2018-09-20T00:43:55.903550",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18SVDsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18SVD -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:35:45.355923",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:11:35.792431",
+    "Duration_sec": "695.792431",
+    "EndTime": "2018-09-20T00:44:47.621173",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SNTsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SNT -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:11.828742",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:11:35.767867",
+    "Duration_sec": "695.767867",
+    "EndTime": "2018-09-20T00:45:27.279022",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18SUEsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18SUE -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:51.511155",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:11:55.776420",
+    "Duration_sec": "715.77642",
+    "EndTime": "2018-09-20T00:45:33.080236",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SQTsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SQT -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:37.303816",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:11:55.774309",
+    "Duration_sec": "715.774309",
+    "EndTime": "2018-09-20T00:45:36.109721",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SQUsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SQU -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:40.335412",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:12:10.803890",
+    "Duration_sec": "730.80389",
+    "EndTime": "2018-09-20T00:45:54.765546",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18STCsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18STC -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:43.961656",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:12:40.843070",
+    "Duration_sec": "760.84307",
+    "EndTime": "2018-09-20T00:46:33.419903",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18SUFsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18SUF -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:52.576833",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:13:05.877073",
+    "Duration_sec": "785.877073",
+    "EndTime": "2018-09-20T00:46:51.159670",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18STDsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18STD -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:45.282597",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:13:05.859118",
+    "Duration_sec": "785.859118",
+    "EndTime": "2018-09-20T00:46:51.213861",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18STEsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18STE -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:45.354743",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:14:51.041285",
+    "Duration_sec": "891.041285",
+    "EndTime": "2018-09-20T00:47:56.912726",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/17SMSsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 17SMS -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:05.871441",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:14:15.955552",
+    "Duration_sec": "855.955552",
+    "EndTime": "2018-09-20T00:48:05.623623",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18SUDsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18SUD -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:33:49.668071",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:07:55.528656",
+    "Duration_sec": "475.528656",
+    "EndTime": "2018-09-20T00:49:01.288165",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18SVFsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18SVF -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:41:05.759509",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:12:05.834750",
+    "Duration_sec": "725.83475",
+    "EndTime": "2018-09-20T00:52:56.326863",
+    "Job": "seppo_recipe_processor.py -v -z -o s3://data.earth/share/Sentinel-1/mgrs/18SVEsS1 -r '/mnt/s/seppo/recipies/timeseries/seppo_ts_processor.py -gid 18SVE -tr 20 20 -mb -mf -ts fil -ani browse -v -sqlopt \"scenedate >= '2018-08-15'\"'",
+    "JobID": "ebd",
+    "StartTime": "2018-09-20T00:40:50.492113",
+    "User": "ebduser"
+}
+-----------------------------------------------------------

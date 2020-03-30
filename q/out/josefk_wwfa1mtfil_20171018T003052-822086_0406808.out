@@ -1,0 +1,11 @@
+{
+    "Attributes": "Input Parameters:\n\n{'tempdir': None, 'keep': False, 'input': None, 'isoptfile': False, 'recipe': '/mnt/s/seppo/recipies/timeseries/alos1_mtfilter_by_view_mgrs.py -mid {20NRK} -ts -plevel rtc-12.5m', 'outpath': 's3://data.earth/projects/c502wwf/{20NRK}sA1', 'verbose': True, 'debug': False, 'zip': False}\n---- CHECKING WRITE PERMISSION on s3://data.earth/projects/c502wwf/{20NRK}sA1\n---- OK.\n---- CREATED TEMPORARY WORKING DIRECTORY:\n/dev/shm/seppoRPtyioovn6\n/dev/shm/seppoRPtyioovn6/alos1_mtfilter_by_view_mgrs.py\n---- PREPARED RECIPE:\nCOMMAND   = /dev/shm/seppoRPtyioovn6/alos1_mtfilter_by_view_mgrs.py\nARGUMENTS =['-mid', '{20NRK}', '-ts', '-plevel', 'rtc-12.5m']\n---- Processing recipe    : /dev/shm/seppoRPtyioovn6/alos1_mtfilter_by_view_mgrs.py\n---- Processing parameters: ['-mid', '{20NRK}', '-ts', '-plevel', 'rtc-12.5m']\n---- Logfile              : SRP_alos1_mtfilter_by_view_mgrs.py.log\n---- PROCESSING ...\n---- DONE.\n---- WRITE OUTPUT DATA TO s3://data.earth/projects/c502wwf/{20NRK}sA1 ...\n/dev/shm/seppoRPtyioovn6 projects/c502wwf/{20NRK}sA1/ /dev/shm/seppoRPtyioovn6/SRP_alos1_mtfilter_by_view_mgrs.py.log projects/c502wwf/{20NRK}sA1/SRP_alos1_mtfilter_by_view_mgrs.py.log\n/dev/shm/seppoRPtyioovn6 projects/c502wwf/{20NRK}sA1/ /dev/shm/seppoRPtyioovn6/alos1_mtfilter_by_view_mgrs.py projects/c502wwf/{20NRK}sA1/alos1_mtfilter_by_view_mgrs.py\nUploaded directory /dev/shm/seppoRPtyioovn6 to s3://data.earth/projects/c502wwf/{20NRK}sA1/\n---- DONE.\n---- RESULTS STORED in:\ns3://data.earth/projects/c502wwf/{20NRK}sA1/\n\n---- FINAL CLEANUP DELETING TEMPDIR.\n",
+    "Duration_hms": "0:00:06.140450",
+    "Duration_sec": "6.14045",
+    "EndTime": "2017-10-18T00:30:59.959252",
+    "Job": "seppo_recipe_processor.py -v -o s3://data.earth/projects/c502wwf/{20NRK}sA1 -r '/mnt/s/seppo/recipies/timeseries/alos1_mtfilter_by_view_mgrs.py -mid {20NRK} -ts -plevel rtc-12.5m'",
+    "JobID": "wwfa1mtfil",
+    "StartTime": "2017-10-18T00:30:53.818802",
+    "User": "josefk"
+}
+-----------------------------------------------------------

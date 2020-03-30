@@ -1,0 +1,11 @@
+{
+    "Attributes": "",
+    "Duration_hms": "0:14:10.885666",
+    "Duration_sec": "850.885666",
+    "EndTime": "2018-09-27T14:54:36.513384",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HS/SA/S1A_IW_GRDH_1SSV_20150718T105053_20150718T105118_006864_009424_A2CB.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-27T14:40:25.627718",
+    "User": "ebduser"
+}
+-----------------------------------------------------------

@@ -1,0 +1,13 @@
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nwget: unable to resolve host address \u2018vertex.daac.asf.alaska.edu\u2019\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 673, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 423, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180824T232935_20180824T233000_023395_028BA7_FC60.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 773, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 769, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 675, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180824T232935_20180824T233000_023395_028BA7_FC60.zip\n"
+    },
+    "Duration_hms": "0:00:10.022539",
+    "Duration_sec": "10.022539",
+    "EndTime": "2018-09-18T21:36:48.873456",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180824T232935_20180824T233000_023395_028BA7_FC60.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-18T21:36:38.850917",
+    "User": "ebduser"
+}
+-----------------------------------------------------------

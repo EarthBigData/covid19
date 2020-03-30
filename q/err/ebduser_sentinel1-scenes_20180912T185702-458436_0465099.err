@@ -1,0 +1,201 @@
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip:\n2018-09-12 22:59:04 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n"
+    },
+    "Duration_hms": "0:00:10.022778",
+    "Duration_sec": "10.022778",
+    "EndTime": "2018-09-12T22:59:08.151348",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T22:58:58.128570",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip:\n2018-09-12 23:10:40 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n"
+    },
+    "Duration_hms": "0:00:20.072407",
+    "Duration_sec": "20.072407",
+    "EndTime": "2018-09-12T23:10:45.168491",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:10:25.096084",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip:\n2018-09-12 23:11:29 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n"
+    },
+    "Duration_hms": "0:00:10.019531",
+    "Duration_sec": "10.019531",
+    "EndTime": "2018-09-12T23:11:32.445271",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:22.425740",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip:\n2018-09-12 23:12:03 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n"
+    },
+    "Duration_hms": "0:00:10.019355",
+    "Duration_sec": "10.019355",
+    "EndTime": "2018-09-12T23:12:06.524646",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:56.505291",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip:\n2018-09-12 23:12:04 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n"
+    },
+    "Duration_hms": "0:00:10.018948",
+    "Duration_sec": "10.018948",
+    "EndTime": "2018-09-12T23:12:07.884541",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:11:57.865593",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip:\n2018-09-12 23:12:14 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n"
+    },
+    "Duration_hms": "0:00:10.018796",
+    "Duration_sec": "10.018796",
+    "EndTime": "2018-09-12T23:12:17.700295",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:07.681499",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip:\n2018-09-12 23:12:23 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n"
+    },
+    "Duration_hms": "0:00:10.017124",
+    "Duration_sec": "10.017124",
+    "EndTime": "2018-09-12T23:12:25.683194",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:15.666070",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip:\n2018-09-12 23:12:22 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n"
+    },
+    "Duration_hms": "0:00:10.020215",
+    "Duration_sec": "10.020215",
+    "EndTime": "2018-09-12T23:12:25.796396",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:15.776181",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip:\n2018-09-12 23:12:23 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n"
+    },
+    "Duration_hms": "0:00:10.026317",
+    "Duration_sec": "10.026317",
+    "EndTime": "2018-09-12T23:12:27.804568",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:17.778251",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip:\n2018-09-12 23:12:33 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n"
+    },
+    "Duration_hms": "0:00:10.025886",
+    "Duration_sec": "10.025886",
+    "EndTime": "2018-09-12T23:12:37.114680",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:27.088794",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip:\n2018-09-12 23:12:41 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n"
+    },
+    "Duration_hms": "0:00:10.023330",
+    "Duration_sec": "10.02333",
+    "EndTime": "2018-09-12T23:12:44.971762",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:34.948432",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip:\n2018-09-12 23:12:41 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n"
+    },
+    "Duration_hms": "0:00:10.018192",
+    "Duration_sec": "10.018192",
+    "EndTime": "2018-09-12T23:12:45.067391",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:35.049199",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip:\n2018-09-12 23:12:52 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip\n"
+    },
+    "Duration_hms": "0:00:10.011421",
+    "Duration_sec": "10.011421",
+    "EndTime": "2018-09-12T23:12:56.457550",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:46.446129",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip:\n2018-09-12 23:13:01 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip\n"
+    },
+    "Duration_hms": "0:00:10.020870",
+    "Duration_sec": "10.02087",
+    "EndTime": "2018-09-12T23:13:04.297706",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:54.276836",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "Authentication selected: Basic realm=\"Please enter your Earthdata Login credentials. If you do not have a Earthdata Login, create one at https://urs.earthdata.nasa.gov//users/new\"\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip:\n2018-09-12 23:13:00 ERROR 404: Not Found.\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 664, in processing\n    in_files = prepare_working_directory (args,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 414, in prepare_working_directory\n    myfile=get_file(args.input,tempdir)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 327, in get_file\n    myfile=get_https(d_s,d_t='.')\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 228, in get_https\n    raise RuntimeError('Could not retrieve {}'.format(d_s))\nRuntimeError: Could not retrieve https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 764, in <module>\n    main()\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 760, in main\n    return processing(args)\n  File \"/mnt/s/seppo/commands/seppo_recipe_processor.py\", line 666, in processing\n    raise RuntimeError(\"Error preparing recipe or input data {}\\n{}\".format(args.recipe,args.input))\nRuntimeError: Error preparing recipe or input data ${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r\nhttps://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip\n"
+    },
+    "Duration_hms": "0:00:10.033172",
+    "Duration_sec": "10.033172",
+    "EndTime": "2018-09-12T23:13:04.362913",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-12T23:12:54.329741",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232907_20180707T232932_022695_027589_8269.zip
+-----------------------------------------------------------
+seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232957_20180707T233022_022695_027589_B0FC.zip
+-----------------------------------------------------------
+seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180707T232932_20180707T232957_022695_027589_BE4F.zip
+-----------------------------------------------------------

@@ -1,0 +1,44 @@
+{
+    "Attributes": "",
+    "Duration_hms": "0:15:55.853760",
+    "Duration_sec": "955.85376",
+    "EndTime": "2018-09-18T08:07:24.249461",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SB/S1B_IW_GRDH_1SDV_20180914T111555_20180914T111617_012710_017758_32DA.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-18T07:51:28.395701",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:17:15.914325",
+    "Duration_sec": "1035.914325",
+    "EndTime": "2018-09-18T08:08:42.425927",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SB/S1B_IW_GRDH_1SDV_20180914T111530_20180914T111555_012710_017758_1057.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-18T07:51:26.511602",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:18:10.958588",
+    "Duration_sec": "1090.958588",
+    "EndTime": "2018-09-18T08:09:43.048286",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SA/S1A_IW_GRDH_1SDV_20180912T232140_20180912T232205_023672_02947E_4149.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-18T07:51:32.089698",
+    "User": "ebduser"
+}
+-----------------------------------------------------------
+{
+    "Attributes": "",
+    "Duration_hms": "0:21:31.142075",
+    "Duration_sec": "1291.142075",
+    "EndTime": "2018-09-18T08:12:58.070965",
+    "Job": "seppo_recipe_processor.py -z -o s3://data.earth/sar/sentinel1/rtc/20.0m -r '${SEPPO_HOME}/recipies/gamma/recipe_sentinel1_grd.py -t -r' -i https://datapool.asf.alaska.edu/GRD_HD/SB/S1B_IW_GRDH_1SDV_20180913T231253_20180913T231322_012703_01771E_333F.zip",
+    "JobID": "sentinel1-scenes",
+    "StartTime": "2018-09-18T07:51:26.928890",
+    "User": "ebduser"
+}
+-----------------------------------------------------------

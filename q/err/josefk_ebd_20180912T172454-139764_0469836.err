@@ -1,0 +1,67 @@
+{
+    "Attributes": {
+        "Error": "bash: wait: pid 10 is not a child of this shell\n"
+    },
+    "Duration_hms": "0:00:05.027015",
+    "Duration_sec": "5.027015",
+    "EndTime": "2018-09-12T21:29:36.607632",
+    "Job": "aws s3 ls data.earth/sar/sentinel1/ --recursive; wait 10",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T21:29:31.580617",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: wait: pid 10 is not a child of this shell\n"
+    },
+    "Duration_hms": "0:00:05.014624",
+    "Duration_sec": "5.014624",
+    "EndTime": "2018-09-12T21:29:50.938026",
+    "Job": "aws s3 ls data.earth/sar/sentinel1/ --recursive; wait 10",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T21:29:45.923402",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: wait: pid 10 is not a child of this shell\n"
+    },
+    "Duration_hms": "0:00:05.009384",
+    "Duration_sec": "5.009384",
+    "EndTime": "2018-09-12T21:30:05.325420",
+    "Job": "aws s3 ls data.earth/sar/sentinel1/ --recursive; wait 10",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T21:30:00.316036",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: wait: pid 10 is not a child of this shell\n"
+    },
+    "Duration_hms": "0:00:05.014903",
+    "Duration_sec": "5.014903",
+    "EndTime": "2018-09-12T21:30:19.892766",
+    "Job": "aws s3 ls data.earth/sar/sentinel1/ --recursive; wait 10",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T21:30:14.877863",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: wait: pid 10 is not a child of this shell\n"
+    },
+    "Duration_hms": "0:00:05.009935",
+    "Duration_sec": "5.009935",
+    "EndTime": "2018-09-12T21:30:34.583340",
+    "Job": "aws s3 ls data.earth/sar/sentinel1/ --recursive; wait 10",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T21:30:29.573405",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+aws s3 ls data.earth/sar/sentinel1/ --recursive; wait 10
+-----------------------------------------------------------

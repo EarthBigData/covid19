@@ -1,0 +1,67 @@
+{
+    "Attributes": {
+        "Error": "bash: aefaeeafsea: command not found\n"
+    },
+    "Duration_hms": "0:00:05.007666",
+    "Duration_sec": "5.007666",
+    "EndTime": "2018-09-12T22:21:39.388014",
+    "Job": "aefaeeafsea ",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T22:21:34.380348",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: aefaeeafsea: command not found\n"
+    },
+    "Duration_hms": "0:00:05.019693",
+    "Duration_sec": "5.019693",
+    "EndTime": "2018-09-12T22:21:53.744643",
+    "Job": "aefaeeafsea ",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T22:21:48.724950",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: aefaeeafsea: command not found\n"
+    },
+    "Duration_hms": "0:00:05.008510",
+    "Duration_sec": "5.00851",
+    "EndTime": "2018-09-12T22:22:08.044434",
+    "Job": "aefaeeafsea ",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T22:22:03.035924",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: aefaeeafsea: command not found\n"
+    },
+    "Duration_hms": "0:00:05.018938",
+    "Duration_sec": "5.018938",
+    "EndTime": "2018-09-12T22:22:22.508172",
+    "Job": "aefaeeafsea ",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T22:22:17.489234",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+{
+    "Attributes": {
+        "Error": "bash: aefaeeafsea: command not found\n"
+    },
+    "Duration_hms": "0:00:05.013760",
+    "Duration_sec": "5.01376",
+    "EndTime": "2018-09-12T22:22:36.824418",
+    "Job": "aefaeeafsea ",
+    "JobID": "ebd",
+    "StartTime": "2018-09-12T22:22:31.810658",
+    "User": "josefk"
+}
+-----------------------------------------------------------
+aefaeeafsea 
+-----------------------------------------------------------
