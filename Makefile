@@ -11,3 +11,9 @@ all:
 	git push
 	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
 
+nb2html:
+	cd /s/notebooks/covid19
+	wget -O /s/data/covid19/time_series_19-covid-Confirmed.csv https://www.soothsawyer.com/wp-content/uploads/2020/03/time_series_19-covid-Confirmed.csv
+	wget -O /s/data/covid19/time_series_19-covid-Deaths.csv https://www.soothsawyer.com/wp-content/uploads/2020/03/time_series_19-covid-Deaths.csv
+	/s/anaconda/envs/seppo/bin/jupyter nbconvert --execute $(object) --to html --no-input --output-dir /s/notebooks/covid19/html
+	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
