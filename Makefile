@@ -23,3 +23,8 @@ dev:
 
 upload:
 	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
+
+clear:
+	jupyter nbconvert --clear-output $(object)
+
+
