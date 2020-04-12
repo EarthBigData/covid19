@@ -11,15 +11,21 @@ all:
 	git push
 	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
 
-nb2html:
+master2html:
 	cd /s/notebooks/covid19
 	/s/anaconda/envs/seppo/bin/jupyter nbconvert --execute $(object) --to html --no-input --output-dir /s/notebooks/covid19/html
 	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
 
-dev:
+dev2html:
 	cd /s/notebooks/covid19
-	/s/anaconda/envs/seppo/bin/jupyter nbconvert --execute $(object) --to html --no-input --output-dir /s/notebooks/covid19/html
-	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index2.html
+	/s/anaconda/envs/seppo/bin/jupyter nbconvert --execute dev_$(object) --to html --no-input --output-dir /s/notebooks/covid19/dev_html
+	aws s3 cp /s/notebooks/covid19/dev_html/dev_ebd_covid19.html s3://ebd-covid19/index2.html
+
+master2dev:
+	cp $(object) dev_$(object) 
+
+dev2master:
+	cp dev_$(object) $(object)
 
 upload:
 	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
