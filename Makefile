@@ -13,7 +13,7 @@ all:
 
 master2html:
 	cd /s/notebooks/covid19
-	/s/anaconda/envs/seppo/bin/jupyter nbconvert --execute $(object) --to html --no-input --output-dir /s/notebooks/covid19/html
+	/s/anaconda/envs/seppo/bin/jupyter nbconvert  --ExecutePreprocessor.timeout=-1 --execute $(object) --to html --no-input --output-dir /s/notebooks/covid19/html
 	aws s3 cp /s/notebooks/covid19/html/ebd_covid19.html s3://ebd-covid19/index.html
 
 dev2html:
